@@ -1,4 +1,4 @@
-echo "gunicorn"
+gunicorn"
 flask
 flask-socketio
 eventlet
