@@ -1,0 +1,10 @@
+echo "gunicorn"
+flask
+flask-socketio
+eventlet
+gunicorn
+requests
+python-dotenv
+openai
+flask_sqlalchemy
+flask_cors
